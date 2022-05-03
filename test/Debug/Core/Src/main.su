@@ -1,0 +1,15 @@
+main.c:85:5:main	8	static
+main.c:133:6:SystemClock_Config	72	static
+main.c:168:13:MX_GPIO_Init	32	static
+main.c:205:6:INIC_SYS	4	static
+main.c:210:6:EST_RST	8	static
+main.c:233:6:EST_S1R	8	static
+main.c:245:6:EST_S1Y	8	static
+main.c:254:6:EST_S1G	8	static
+main.c:269:6:EST_S2R	8	static
+main.c:280:6:EST_S2Y	8	static
+main.c:293:6:EST_S2G	8	static
+main.c:303:6:EST_S3R	8	static
+main.c:317:6:EST_S3Y	8	static
+main.c:327:6:EST_S3G	8	static
+main.c:344:6:Error_Handler	4	static
