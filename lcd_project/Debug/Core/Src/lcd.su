@@ -1,0 +1,6 @@
+../Core/Src/lcd.c:11:6:cmd_LCD	16	static
+../Core/Src/lcd.c:60:6:caract_LCD	16	static
+../Core/Src/lcd.c:103:6:inic_LCD_4bits	8	static
+../Core/Src/lcd.c:175:6:escreve_LCD	16	static
+../Core/Src/lcd.c:182:6:escreve_LCD_Flash	16	static
+../Core/Src/lcd.c:189:6:ident_num	24	static
