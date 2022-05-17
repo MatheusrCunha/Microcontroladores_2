@@ -1,0 +1,10 @@
+../Core/Src/LCD_HD44780.c:6:6:send_nibble_LCD	16	static
+../Core/Src/LCD_HD44780.c:15:6:send_byte_LCD	16	static
+../Core/Src/LCD_HD44780.c:24:6:cmd_LCD	16	static
+../Core/Src/LCD_HD44780.c:37:6:write_character_LCD	16	static
+../Core/Src/LCD_HD44780.c:45:6:init_LCD_4bits	8	static
+../Core/Src/LCD_HD44780.c:71:6:write_string_LCD	16	static
+../Core/Src/LCD_HD44780.c:78:6:write_nr_LCD	32	static
+../Core/Src/LCD_HD44780.c:105:6:write_string_nr_LCD	24	static
+../Core/Src/LCD_HD44780.c:113:6:new_character_CGRAM	24	static
+../Core/Src/LCD_HD44780.c:139:6:write_time_LCD	24	static
